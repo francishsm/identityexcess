@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and/or the Zenodo archive."
+
+authors:
+  - family-names: Li
+    given-names: Suting
+  - family-names: Tian
+    given-names: Jinhua
+  - family-names: Li
+    given-names: Bingshu
+  - family-names: Wang
+    given-names: Zhi
+  - family-names: Li
+    given-names: Hongming
+  - family-names: Min
+    given-names: Jie
+  - family-names: Li
+    given-names: Hong
+    orcid: "0000-0002-3841-5557"
+  - family-names: He
+    given-names: Songming
+    orcid: "0009-0000-0104-4433"
+
+title: "identityexcess: Python toolkit for stromal signature de-confounding and identity-excess-law calculation"
+version: "0.0.1-pre"
+date-released: ""
+license: MIT
+url: "https://github.com/francishsm/identityexcess"
+preferred-citation:
+  type: article-journal
+  authors:
+    - family-names: Li
+      given-names: Suting
+    - family-names: Tian
+      given-names: Jinhua
+    - family-names: Li
+      given-names: Bingshu
+    - family-names: Wang
+      given-names: Zhi
+    - family-names: Li
+      given-names: Hongming
+    - family-names: Min
+      given-names: Jie
+    - family-names: Li
+      given-names: Hong
+    - family-names: He
+      given-names: Songming
+  title: "Identity-excess law separates constitutive fibroblast identity from context-specific intra-program remodelling across degenerative, inflammatory and mechanical fibrosis"
+  journal: "Matrix Biology"
+  volume: ""
+  issue: ""
+  page: ""
+  doi: ""
+  note: "Manuscript under peer-review. For reproducibility use Zenodo archive: https://doi.org/10.5281/zenodo.24487895"
